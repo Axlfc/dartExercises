@@ -12,5 +12,4 @@ void main(List<String> arguments) {
   // A log-in happens
   userState = UserStates.logged;
   print(userState);
-
 }
