@@ -24,4 +24,10 @@ void main(List<String> arguments) {
       print("B case");
       break;
   }
+  bool programador = true;
+  var job = "programador";
+
+  
+  programador ? print("Soy programador") : print("No soy programador");
+  
 }
